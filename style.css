@@ -1,0 +1,56 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: bisque;
+}
+
+h1
+{
+    background: white;
+    color: red;
+    font-family: cursive;
+    font-weight: bold;
+
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+h4
+{
+    color: red;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border: 1px solid blue;
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.column
+{
+    display: inline;
+    padding: 10px;
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
